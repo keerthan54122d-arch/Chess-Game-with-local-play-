@@ -1,0 +1,6 @@
+{
+  "name": "CHESS : OFFLINE AND LOCAL PLAY",
+  "description": "High-fidelity offline and local chess featuring multi-level AI, real-time move validation, customizable timers, statistics tracking, deep game review, local pass-and-play, and nearby Bluetooth multiplayer.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
